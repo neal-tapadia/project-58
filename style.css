@@ -1,0 +1,20 @@
+img{
+  width:350px
+
+}
+body{
+  text-aling:center;
+text-align: center
+}
+.links{
+    float:left ;
+    color: black;
+    font-family: fantasy;
+    font-size: 20px;
+    padding: 10px;
+visibility: visible;
+    align-items: center
+}
+.links:hover{
+    background-color:chartreuse;
+}
